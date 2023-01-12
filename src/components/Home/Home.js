@@ -14,6 +14,9 @@ const Home = () => {
             <HomeAccordion/>
             <HomeForm/>
         </>
+        <div>
+
+        </div>
     );
 };
 
